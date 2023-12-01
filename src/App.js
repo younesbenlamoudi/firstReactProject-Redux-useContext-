@@ -24,7 +24,7 @@ export default function App() {
         <User/>
       </context.Provider>
 
-      <h3>---------------------</h3>
+      <h3>---------youh------------</h3>
 
       <Provider store={store}>
         <h1>Redux</h1>
